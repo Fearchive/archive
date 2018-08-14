@@ -1,17 +1,11 @@
 ---
 layout: page
 title: Russian Sleep Experiment
-description: Author is currently unknown. 
+description: the author is currently unknown. Originally the story was published on the /x/ board of 4chan by an anonymous user. All current speculation points to a person who went by the Alias "Orange.Soda" but nothing else is known about them.
 permalink: /archive/russian-sleep-experiment
 categories: creepypasta 4chan
 ---
 
-### Preface
-Author is currently unknown. 
-
-The story was originally published on the /x/ board of 4chan by an anonymous user. All current speculation points to a person who went by the Alias "Orange.Soda" but nothing else is known about them.
-
-### Story
 Russian researchers in the late 1940s kept five people awake for fifteen days using an experimental gas based stimulant. They were kept in a sealed environment to carefully monitor their oxygen intake so the gas didn't kill them, since it was toxic in high concentrations. This was before closed circuit cameras so they had only microphones and five inch thick glass porthole sized windows into the chamber to monitor them. The chamber was stocked with books, cots to sleep on but no bedding, running water and toilet, and enough dried food to last all five for over a month.
 
 The test subjects were political prisoners deemed enemies of the state during World War II.
