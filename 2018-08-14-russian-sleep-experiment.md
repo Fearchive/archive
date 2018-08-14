@@ -3,7 +3,7 @@ layout: post
 title: Russian Sleep Experiment
 description: Author is currently unknown. 
 permalink: /archive/russian-sleep-experiment
-tags: creepypasta 4chan
+categories: creepypasta 4chan
 ---
 
 ### Preface
