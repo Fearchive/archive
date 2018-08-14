@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Russian Sleep Experiment
 description: Author is currently unknown. 
 permalink: /archive/russian-sleep-experiment
